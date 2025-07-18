@@ -97,7 +97,7 @@
     </div>
     <div class="project-card">
       <h3>Project Title 2</h3>
-      <p>Short description of your workshop, research or blog post.</p>
+      <p> Coffee workshop.</p>
     </div>
   </div>
 </section>
